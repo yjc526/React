@@ -7,8 +7,5 @@
     "@hapi/joi": "^16.1.7",
     "express": "^4.17.1",
     "mongoose": "^5.7.8"
-  },
-  "scripts": {
-    "start": "nodemon index.js"
   }
 }
